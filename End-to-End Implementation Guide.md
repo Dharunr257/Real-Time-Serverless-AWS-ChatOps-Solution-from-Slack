@@ -516,7 +516,7 @@ get_secret_value()
 
 Deploy final Lambda code.
 
-pythonn file available in the repo 
+python file available in the repo 
 
 Verify deployment succeeds.
 
